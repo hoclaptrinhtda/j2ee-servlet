@@ -1,0 +1,28 @@
+﻿---------------------------------------------------------------------
+	https://www.facebook.com/HocLapTrinhTuDuAn/
+	http://hoclaptrinhtda.com/
+	http://appdeveasy.com/
+-------------------------JAVA WEB-----------------------------------
+		Dự án: Quản lý bán hàng
+*********************************************************************
+1. Mục đích: củng cố và nâng cao kiến thức:
+	> Servlet
+	> JSTL
+	> JavaCore
+	> Thiết kế đối tượng cho nghiệp vụ bán hàng
+
+
+2. Xây dựng dự án quản lý bán hàng. Thông tin quản lý: Product, Order
+	> Quản lý sản phẩm
+	> Quản lý đơn hàng
+
+
+
+BT:
+1. Đối với form sửa phải readonly id hoặc ẩn text nhập id
+
+https://tomcat.apache.org/download-90.cgi
+https://www.tutorialspoint.com/jsp/jsp_standard_tag_library.htm
+https://www.tutorialspoint.com/jsp/jsp_expression_language.htm
+
+
